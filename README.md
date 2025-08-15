@@ -57,7 +57,14 @@ pip install django
 python manage.py migrate
 ```
 ### 4. Start the Development Server
+```
+python manage.py runserver
+```
 
+### 5. Open in Browser
+```
+http://127.0.0.1:8000/
+```
 
 
 
