@@ -33,3 +33,36 @@ form_project/
 │ └── contact.html # Form HTML template
 │
 └── manage.py # Django management script
+
+
+---
+
+## 🚀 How to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/<your-username>/django-form-project.git
+cd django-form-project
+```
+### 2. Create Virtual Environment & Install Dependencies
+
+python -m venv venv
+source venv/bin/activate    # On Mac/Linux
+venv\Scripts\activate       # On Windows
+
+pip install django
+
+### 3. Run Migrations
+```
+python manage.py migrate
+```
+### 4. Start the Development Server
+
+
+
+
+
+
+
+
+
