@@ -10,6 +10,7 @@ This project is a simple Django application demonstrating the creation, validati
 - Basic form validation
 - Displays success message after submission
 
+---
 ## 📂 Project Structure
 ```
 form_project/
