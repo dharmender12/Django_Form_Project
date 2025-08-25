@@ -46,7 +46,6 @@ source venv/bin/activate    # On Mac/Linux
 venv\Scripts\activate       # On Windows
 pip install django
 ```
-
 ### 3. Run Migrations
 ```bash
 python manage.py migrate
