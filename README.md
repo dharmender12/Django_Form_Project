@@ -9,7 +9,7 @@ This project is a simple Django application demonstrating the creation, validati
 - CSRF protection for secure submissions
 - Basic form validation
 - Displays success message after submission
-
+  
 ---
 
 ## 📂 Project Structure
